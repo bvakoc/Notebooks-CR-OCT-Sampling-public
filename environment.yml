@@ -1,0 +1,5 @@
+name: MyNotebooks
+channels:
+  - conda-forge
+dependencies:
+  - python =3
