@@ -6,6 +6,6 @@ dependencies:
   - pandas
   - numpy
   - matplotlib
-  - display
+  - IPython
   - scipy
   - voila
