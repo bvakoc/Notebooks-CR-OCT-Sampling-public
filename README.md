@@ -15,6 +15,6 @@ Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 [&emsp;&emsp;&emsp;&nbsp;Nyquist sampling: Analog low-pass filter](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart2%2FSNR%2FNotebook.ipynb)
 
 
-
-
+<br>
+Launch this GitHub repository in a Jupyter Notebook environment here &nbsp;
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD)
