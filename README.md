@@ -12,6 +12,8 @@
 
 [&emsp;&emsp;&emsp;&nbsp;Oversampling: Roll-off compensation](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FRoll-off%2FNotebook.ipynb)
 
+[&emsp;&emsp;&emsp;&nbsp;Minimal oversampling: Artefacts](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FMinimal%20oversampling%2FNotebook1.ipynb)
+
 
 <br>
 Launch this GitHub repository in a Jupyter Notebook environment:
