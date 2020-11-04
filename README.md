@@ -7,4 +7,4 @@
 
 # MyNotebooks
 
-[![Binder](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD)
