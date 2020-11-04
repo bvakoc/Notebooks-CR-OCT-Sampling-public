@@ -1,9 +1,12 @@
+##### &copy; Norman Lippok | nlippok@mgh.harvard.edu
+
+# Optimal system design for CR-OCT
 
 
 
 
 
-[Part 1](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart1%2FNotebook.ipynb)
+[Part 1: Circular ranging signals](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart1%2FNotebook.ipynb)
 
 # MyNotebooks
 
