@@ -10,10 +10,10 @@
 
 [Part 3: Oversampling: Artefacts](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FArtefacts%2FNotebook.ipynb)
 
-[&emsp;&emsp;&emsp;&nbsp;Oversampling: Roll-off compensation](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FRoll-ff%2FNotebook.ipynb)
+[&emsp;&emsp;&emsp;&nbsp;Oversampling: Roll-off compensation](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FRoll-off%2FNotebook.ipynb)
 
 
-
+<br>
 Launch this GitHub repository in a Jupyter Notebook environment:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD)
