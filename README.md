@@ -9,7 +9,7 @@
 
 [Part 2: Nyquist sampling: Acquisition clock phase](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart2%2FNotebook1.ipynb)
 
-[Part 2: Nyquist sampling: Analog low-pass filter](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart2%2FNotebook2.ipynb)
+[       Nyquist sampling: Analog low-pass filter](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart2%2FNotebook2.ipynb)
 
 
 # MyNotebooks
