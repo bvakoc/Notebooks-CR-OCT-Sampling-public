@@ -1,3 +1,5 @@
+[Part 1]()
+
 # MyNotebooks
 
-[![Binder](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart1%2FNotebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/MyNotebooks-public/master)
