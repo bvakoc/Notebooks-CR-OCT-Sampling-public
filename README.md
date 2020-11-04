@@ -14,7 +14,7 @@ Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 
 <br>
 
-| PART 1 | PART 2 | PART 3 |
+| PART 1|SIGNALS | PART 2|NYQUIST SAMPLING | PART 3|OVERSAMPLING |
 | :--- | :--- | :--- |
 | <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart1%2FNotebook.ipynb">Circular ranging signals</a> | Nyquist sampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart2%2FPhase%2FNotebook.ipynb">Acquisition clock phase</a> | Oversampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FArtefacts%2FNotebook.ipynb">Aliasing artefacts</a> |
 | | Nyquist sampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart2%2FSNR%2FNotebook.ipynb">Analog low-pass filter</a> | Oversampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FRoll-off%2FNotebook.ipynb">Roll-off compensation</a> |
