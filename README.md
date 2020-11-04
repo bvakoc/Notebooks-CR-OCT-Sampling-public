@@ -1,4 +1,5 @@
-<h3 align="left">SUPPLEMENTARY MATERIAL \break Optimal system design for CR-OCT</h3>
+## SUPPLEMENTARY MATERIAL 
+# Optimal system design for CR-OCT
 
 
 # MyNotebooks
