@@ -1,4 +1,3 @@
-##### &copy; Norman Lippok | nlippok@mgh.harvard.edu
 
 # Optimal system design for CR-OCT
 
