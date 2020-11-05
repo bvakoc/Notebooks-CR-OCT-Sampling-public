@@ -13,7 +13,7 @@ Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 
 * This GitHub repository contains Supplementary Material to our paper series on optimal system design for circular-ranging OCT. 
 * The table below provides links to simulations corresponding to **PART 1-Signals**, **PART 2-Nyquist sampling** and **PART 3-Oversampling** of the series.
-* Each link leads to a self-running simulation based on Jupyter Notebooks (Python3) without the need to download/install Jupyter or Python. The server (<a href="https://mybinder.org"target="_blank">MyBinder</a>) offers satisfactory speed to run the simulations. Starting the server may take up to 10 minutes if a Notebook is being built for the first time.
+* Each link leads to a self-running simulation based on Jupyter Notebooks (Python3) without the need to download/install Jupyter or Python. The server (<a href="https://mybinder.org"target=" _blank" >MyBinder</a>) offers satisfactory speed to run the simulations. Starting the server may take up to 10 minutes if a Notebook is being built for the first time.
 * To improve computational speed, we recommend downloading a corresponding Notebook folder from the directory above and run the *Notebook.ipynb* file inside a Jupyter Notebook environment. Note that all files inside a Notebook folder must be downloaded. Running the simulation requires the installation of Jupyter Notebook and Python3. We recommend using <a href="https://www.anaconda.com/products/individual">Anaconda</a>, which automatically installs both platforms for free. 
 
 <br>
