@@ -1,12 +1,11 @@
 
 # Optimal system design for CR-OCT
-<!-- 
 Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 <i><sub><sup>1</sup>Wellman Center for Photomedicine, Massachusetts General Hospital, Boston, MA 02114, USA<br>
 <sup>2</sup>Harvard Medical School, Boston, MA 02115, USA<br>
 <sup>3</sup>Institute for Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA </sub>
 </i>
---->
+
 * This GitHub repository contains Supplementary Material to our paper series on optimal system design for circular-ranging OCT. 
 * The table below provides links to Notebooks corresponding to **PART 1-Signals**, **PART 2-Nyquist sampling** and **PART 3-Oversampling** of the series.
 * The links construct self-maintining Jupyter Notebooks (Python3) without the need to download/install Jupyter or Python.
