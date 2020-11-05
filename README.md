@@ -25,6 +25,7 @@ Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 | | | Minimal oversampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FMinimal%20oversampling%2FNotebook1.ipynb">*Aliasing artefacts*</a>|
 
 <br>
+This GitHub directory can be opened in a Jupyter enviornment using the link below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD)
 
