@@ -1,5 +1,4 @@
-# Optimal system design for CR-OCT         
-<img src="readme.png" alt="drawing" width="400"/>
+<img src="readme.png" alt="drawing" width="1200"/>
 
 <!-- 
 Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
