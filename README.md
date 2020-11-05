@@ -25,7 +25,5 @@ Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 
 
 <br>
-Launch this GitHub repository in a Jupyter Notebook environment:
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD)
 
