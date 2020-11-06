@@ -1,5 +1,7 @@
 <!-- <img src="readme.png" alt="drawing" width="800"/> -->
-Optimal system design for CR-OCT
+
+# Optimal system design for CR-OCT
+
 <!-- 
 Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 <i><sub><sup>1</sup>Wellman Center for Photomedicine, Massachusetts General Hospital, Boston, MA 02114, USA<br>
