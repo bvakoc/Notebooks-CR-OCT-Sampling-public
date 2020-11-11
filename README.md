@@ -1,5 +1,5 @@
- <img src="readme.png" alt="drawing" width="800"/>
-<!--
+<!-- <img src="readme.png" alt="drawing" width="800"/>
+
 Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 <i><sub><sup>1</sup>Wellman Center for Photomedicine, Massachusetts General Hospital, Boston, MA 02114, USA<br>
 <sup>2</sup>Harvard Medical School, Boston, MA 02115, USA<br>
