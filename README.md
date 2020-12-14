@@ -17,9 +17,9 @@ Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 
 | PART 1 | PART 2 | PART 3 |
 | :--- | :--- | :--- |
-| <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart1%2FNotebook.ipynb" target="_blank">Circular ranging signals</a> | Nyquist sampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart2%2FPhase%2FNotebook.ipynb" target="_blank">Acquisition clock phase</a> | Oversampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FArtefacts%2FNotebook.ipynb" target="_blank">Aliasing artefacts</a> |
+| <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart1%2FNotebook.ipynb" target="_blank">Circular ranging signals</a> | Nyquist sampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart2%2FPhase%2FNotebook.ipynb" target="_blank">Acquisition clock phase</a> | Minimal oversampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FMinimal%20oversampling%2FNotebook1.ipynb" target="_blank">Aliasing artefacts</a> |
 | | Nyquist sampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart2%2FSNR%2FNotebook.ipynb" target="_blank">Analog low-pass filter</a> | Oversampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FRoll-off%2FNotebook.ipynb" target="_blank">Roll-off compensation</a> |
-| | | Minimal oversampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FMinimal%20oversampling%2FNotebook1.ipynb" target="_blank">Aliasing artefacts</a>| 
+| | | Oversampling: <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart3%2FArtefacts%2FNotebook.ipynb" target="_blank">Aliasing artefacts</a> | 
 
 <br>
 This GitHub directory can be opened in a Jupyter enviornment using the link below.
