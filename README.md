@@ -11,7 +11,7 @@ Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 This GitHub repository contains Supplementary Material to our paper entitled *RF Properties of Circular-Ranging OCT Signals*. Please note the comments below.
 * The link below initiates a self-running simulation based on Jupyter Notebook (Python3). No installation of Jupiter Notebooks, Python or prior knowledge of Pyton is required.
 * Starting the server (based on <a href="https://mybinder.org" target="_blank">MyBinder</a>) for the first time may take up to 10 minutes.
-* Optionally, the Notebook (`Notebook.ipynb`) can be downloaded from the directory above and run inside your own Jupyter Notebook environment. Note that all files inside the folder are required to run the simulation. Running the Notebook externally requires the installation of Jupyter Notebook and Python3. We recommend using <a href="https://www.anaconda.com/products/individual" target="_blank">Anaconda</a>, which is free. 
+* Optionally, the Notebook (`Notebook.ipynb`) can be downloaded from the directory above and run inside your own Jupyter Notebook environment. Note that all files inside the folder are required to run the simulation. Running the Notebook externally requires the installation of Jupyter Notebook and Python3. We recommend downloading <a href="https://www.anaconda.com/products/individual" target="_blank">Anaconda</a>, which is free. 
 
 <br>
 
