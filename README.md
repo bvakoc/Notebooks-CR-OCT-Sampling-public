@@ -16,7 +16,6 @@ This GitHub repository contains Supplementary Material to our paper entitled *RF
 <br>
 
 Access simulation tool here:
-| :--- |
 <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-CR-OCT-Sampling-public/HEAD?urlpath=%2Fvoila%2Frender%2FPart1%2FNotebook.ipynb" target="_blank">CR-OCT signals </a> 
 
 <br>
