@@ -12,7 +12,7 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 
 * The link below initiates a self-running simulation based on Jupyter Notebook (Python3). No installation of Jupiter Notebook or Python nor prior knowledge of Jupyter / Pyton is required.
 * Starting the server (based on <a href="https://mybinder.org" target="_blank">MyBinder</a>) for the first time may take up to 10 minutes. Please be patient.
-* Optionally, the Notebook (`Notebook.ipynb`) can be downloaded from the directory above and run inside a Jupyter Notebook environment. Note that all files inside the folder (Part1) are required to run the simulation. Running the Notebook externally requires the installation of Jupyter Notebook and Python3. We recommend downloading <a href="https://www.anaconda.com/products/individual" target="_blank">Anaconda</a>, which is free. 
+* Optionally, the Notebook (`Notebook.ipynb`) can be downloaded from the directory above and run inside a Jupyter environment. Note that all files inside the folder (Part1) are required to run the simulation. Running the Notebook externally requires the installation of Jupyter Notebook and Python3. We recommend downloading <a href="https://www.anaconda.com/products/individual" target="_blank">Anaconda</a>, which is free. 
 
 <br>
 
